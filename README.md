@@ -2,14 +2,14 @@
 ## Date: 12.10.25
 
 ## AIM:
- To design a website to calculate the power of a lamp filament in an incandescent bulb in the server side. 
+ To design a website to calculate the Body Mass Index(BMI) using weight in kg and height in cm. 
 
 
 ## FORMULA:
-P = I<sup>2</sup>R
-<br> P --> Power (in watts)
-<br> I --> Intensity
-<br> R --> Resistance
+BMI = weight / (height<sup>2</sup>)
+<br> BMI → Body Mass Index
+<br> weight → in kilograms (kg)
+<br> height → in centimeters (cm), converted to meters by dividing by 100
 
 ## DESIGN STEPS:
 
